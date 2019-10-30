@@ -1,0 +1,859 @@
+fileFormatVersion: 2
+guid: 13cc98bc168e2cc4eaf9934cea82e945
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2664672842236253296
+    second: Design_0
+  - first:
+      213: 7757181218653603527
+    second: Design_1
+  - first:
+      213: -8136150488538034456
+    second: Design_2
+  - first:
+      213: -2413557501950435262
+    second: Design_3
+  - first:
+      213: -4418997008593774178
+    second: Design_4
+  - first:
+      213: 7823120481852679497
+    second: Design_5
+  - first:
+      213: -9199126473041829960
+    second: Design_6
+  - first:
+      213: -1197996355378459814
+    second: Design_7
+  - first:
+      213: 192968755084115902
+    second: Design_8
+  - first:
+      213: 2882092143696478231
+    second: Design_9
+  - first:
+      213: 6962520457495050217
+    second: Design_10
+  - first:
+      213: 1943282939180379423
+    second: Design_11
+  - first:
+      213: -883986495409312222
+    second: Design_12
+  - first:
+      213: -5498659243655609690
+    second: Design_13
+  - first:
+      213: 3450119432107563645
+    second: Design_14
+  - first:
+      213: -156380415933688140
+    second: Design_15
+  - first:
+      213: -8618478880594559231
+    second: Design_16
+  - first:
+      213: -1205992909015469316
+    second: Design_17
+  - first:
+      213: 1743975639663584706
+    second: Design_18
+  - first:
+      213: 6384533335847062475
+    second: Design_19
+  - first:
+      213: -2840693309401541340
+    second: Design_20
+  - first:
+      213: -900334484189120195
+    second: Design_21
+  - first:
+      213: -2936497091504982274
+    second: Design_22
+  - first:
+      213: 5446566662688106729
+    second: Design_23
+  - first:
+      213: 5783455757028314306
+    second: Design_24
+  - first:
+      213: 7904815773226501471
+    second: Design_25
+  - first:
+      213: 3018056175495877096
+    second: Design_26
+  - first:
+      213: -6731299277285152141
+    second: Design_27
+  - first:
+      213: -7012121300799368820
+    second: Design_28
+  - first:
+      213: 3942235107282322482
+    second: Design_29
+  - first:
+      213: -6521692651757791998
+    second: Design_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Design_0
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 2065
+        width: 623
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75c34adb9622dc43ae637b17257b4be
+      internalID: -2664672842236253296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_1
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1055
+        width: 1384
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f4b428d2595fe4597086d465c4a99f
+      internalID: 7757181218653603527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_2
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1679
+        width: 586
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba68ebb54ff4cc429b2718f5cbaee2e
+      internalID: -8136150488538034456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_3
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1999
+        width: 574
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436431a9922704343afc80581237adba
+      internalID: -2413557501950435262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2648
+        width: 2206
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cf908f9ddaf764ca6ea2388aa3b5cf
+      internalID: -4418997008593774178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2379
+        width: 192
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848eedf8a7ef72b49b86443a9c283642
+      internalID: 7823120481852679497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_6
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 2837
+        width: 175
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af39d65ff846d9948959c084f773cc03
+      internalID: -9199126473041829960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_7
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 2840
+        width: 161
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c7a741dff02f14d8deba0e27943ca1
+      internalID: -1197996355378459814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_8
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2373
+        width: 1888
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38478bacf16ba7842a0b85bf70bebcc5
+      internalID: 192968755084115902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2862
+        width: 184
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f2238a562a8b04eaee430e593cb88d
+      internalID: 2882092143696478231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_10
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 2837
+        width: 628
+        height: 143
+      alignment: 9
+      pivot: {x: 0.48896196, y: 0.5138477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b220c985016f2c40bb23df542667f74
+      internalID: 6962520457495050217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2830
+        width: 627
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0353673e7b6011845874944c798a762f
+      internalID: 1943282939180379423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_12
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 2836
+        width: 639
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3736b8c14da064c8c89396f12c1abb
+      internalID: -883986495409312222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_13
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 2838
+        width: 639
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb4d13c69cb5dd4b8745981ff6fe805
+      internalID: -5498659243655609690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_14
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 2834
+        width: 634
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc97ffded806a9f4b9a5c5b03a454a76
+      internalID: 3450119432107563645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_15
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1568
+        width: 238
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f918b14f7a54b0948b1204fb9aa73532
+      internalID: -156380415933688140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1354
+        width: 158
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fe3e085a473ed4db79cdb2e5a203e7
+      internalID: -8618478880594559231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_17
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1355
+        width: 159
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022b79d65bee44f4187a1b67715771ae
+      internalID: -1205992909015469316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_18
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1356
+        width: 159
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957a73f2ac38384459a24c402a1c7d34
+      internalID: 1743975639663584706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_19
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1833
+        width: 14
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f4b8ed5dc8a1841a55e3348f24073e
+      internalID: 6384533335847062475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_20
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2955
+        width: 89
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa25cbcf42a9d9143b9baf2d1e8956f4
+      internalID: -2840693309401541340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_21
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2342
+        width: 1981
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4566bd264dbc37f47ae90d75b02ca651
+      internalID: -900334484189120195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_22
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2914
+        width: 92
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244844b63f5e8f04d948472944c54365
+      internalID: -2936497091504982274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_23
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2147
+        width: 154
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0179929bcafa749aae0bc5b49c19b8
+      internalID: 5446566662688106729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_24
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2953
+        width: 91
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4284657e29323546a60c26480fab662
+      internalID: 5783455757028314306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_25
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2007
+        width: 647
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5206383, y: 0.5104324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a313c022a6c7f4b98a273da871bf9b
+      internalID: 7904815773226501471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_26
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2158
+        width: 657
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41234b6359efca44bf6dc3e310026e7
+      internalID: 3018056175495877096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_27
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1840
+        width: 642
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caeaaf106e2f9c42be335bf242afa8a
+      internalID: -6731299277285152141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_28
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2002
+        width: 628
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6914b579b9f1fd4e93e52124e659a1e
+      internalID: -7012121300799368820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_29
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1680
+        width: 639
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c45d41722c3e8438e5ce2c9e944f55
+      internalID: 3942235107282322482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design_30
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1521
+        width: 651
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b33748dc25e87b42925bd8a1177861a
+      internalID: -6521692651757791998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
